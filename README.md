@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Learning Backend Development and RTL Coding in Verilog
+I'm Currently Learning about Computer Archietecture and Digital Circuits in Verilog along with Backend Web Development
 
 
 # 💻 Tech Stack:
