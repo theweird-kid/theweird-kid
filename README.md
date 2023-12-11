@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Learning about Computer Archietecture and Digital Circuits in Verilog along with Backend Web Development
+I'm Currently Learning Backend Web Development with Go and Digital Circuit Design using Verilog.
 
 
 # 💻 Tech Stack:
