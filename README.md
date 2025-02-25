@@ -1,9 +1,22 @@
 Hi 👋 My name is Gaurav Kumar
 =============================
 
-Currently a Pre-Final Year Undergraduate Student at NIT Jalandhar in the Department of Electronics and Communication Engineering
+👋 Hello! I'm a Pre-Final Year Electronics and Communication Engineering student at NIT Jalandhar, deeply passionate about building high-performance software.
 
-* 🧠  I'm learning Golang and ReactJS
+My primary focus areas are:
+
+* **C++:** I'm diving deep into C++ for systems-level development, focusing on concurrency, performance optimization, and low-level programming. I also explore graphics programming as one of my interests.
+* **Go (Golang):** I'm building scalable and efficient backend systems with Go, concentrating on concurrency models and robust API design.
+
+I'm driven by a desire to understand how systems work at a fundamental level and create software that is both powerful and efficient. I'm always eager to learn new technologies and contribute to challenging projects.
+
+**Currently Learning/Exploring:**
+
+* Advanced C++ techniques for system optimization and concurrent programming.
+* Go's concurrency patterns and building distributed systems.
+* Improving my understanding of computer architecture and operating systems.
+
+Feel free to explore my repositories to see examples of my work. Let's connect and build something impactful!
 
 <a href="https://www.github.com/theweird-kid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/theweird-kid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -20,8 +33,3 @@ src="https://img.shields.io/github/followers/theweird-kid?logo=github&style=for-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/theweird-kid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theweird-kid&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/theweird-kid/chat-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=theweird-kid&repo=chat-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/theweird-kid/ecom" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=theweird-kid&repo=ecom&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
