@@ -1,18 +1,45 @@
-# 💫 About Me:
-Hey there! 👋 I'm a Pre-Final Year Electronics and Communication Engineering student at NIT Jalandhar, and I'm super passionate about crafting high-performance software! 🚀<br><br>My main playgrounds are:<br><br>C++: 💻 I'm diving deep into C++ for systems-level development, focusing on concurrency, performance optimization, and low-level programming. I also dabble in graphics programming for fun! ✨<br>Go (Golang): 🛠️ I'm building scalable and efficient backend systems with Go, concentrating on concurrency models and robust API design. ⚙️<br>I'm driven by a desire to understand how systems work from the ground up and create software that's both powerful and efficient. ⚡ I'm always excited to learn new technologies and contribute to challenging projects. 💡<br><br>Currently Learning/Exploring:<br><br>Advanced C++ techniques for system optimization and concurrent programming. 📚<br>Go's concurrency patterns and building robust APIs. 🔗<br>Improving my understanding of computer architecture and operating systems. 🧠<br>Feel free to explore my repositories to see examples of my work! 📂 Let's connect and build something impactful! 🤝
+# Hi there 👋 I'm Gaurav Kumar
+
+I'm a backend engineer passionate about building scalable systems, developer tools, and AI-powered products.
+
+- 🔧 Currently working with **Go**, **PostgreSQL**, **Docker**, and **GCP**
+- 📌 Projects include system software, GenAI-powered tools, and backend infrastructure
+- 💡 Exploring: distributed systems, system software, GenAI and LLM-powered applications
+
+## 🛠️ Tech Stack
+
+### 🧠 Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQLC](https://img.shields.io/badge/SQLC-006ACC?style=for-the-badge&logo=go&logoColor=white)
+![Goose](https://img.shields.io/badge/Goose-000000?style=for-the-badge&logo=go&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Ninja](https://img.shields.io/badge/Ninja-999999?style=for-the-badge&logo=ninja&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## 🔬 Featured Projects
+- 🧠 [Neural Notes](https://neural-notes-464706.web.app/) — AI-powered tool that generates commit-level summaries and timelines for any GitHub repository. Built with Go, React, and Vertex AI.
+- 🎙️ [UDP Voice Chat in C++](https://github.com/theweird-kid/echo-link) — Real-time peer-to-peer voice communication over UDP sockets.
+- 🗃️ [Database Storage Engine in C++](https://github.com/theweird-kid/pebbleDB) — Lightweight storage engine supporting indexed data access, efficient record storage, and custom memory management, built from scratch.
+
+## 📈 GitHub Stats
+[![Gaurav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theweird-kid&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/k-gaurav29) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theweird-kid&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=theweird-kid&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theweird-kid&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=theweird-kid&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-gaurav29/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gaurav-a73e.onrender.com/)
