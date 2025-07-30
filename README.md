@@ -37,7 +37,7 @@ I'm a backend engineer passionate about building scalable systems, developer too
 - 🗃️ [Database Storage Engine in C++](https://github.com/theweird-kid/pebbleDB) — Lightweight storage engine supporting indexed data access, efficient record storage, and custom memory management, built from scratch.
 
 ## 📈 GitHub Stats
-[![Gaurav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theweird-kid&theme=github-compact)](https://github.com/theweird-kid/github-readme-activity-graph)
+[![Gaurav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theweird-kid&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 ## 📫 Get in Touch
