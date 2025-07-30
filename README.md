@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Gaurav Kumar
 
-I'm a backend engineer passionate about building scalable systems, developer tools, and AI-powered products.
+I enjoy building scalable backends, experimenting with GenAI workflows, and diving deep into systems programming with C++.
 
 - 🔧 Currently working with **Go**, **PostgreSQL**, **Docker**, and **GCP**
 - 📌 Projects include system software, GenAI-powered tools, and backend infrastructure
