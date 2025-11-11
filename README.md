@@ -39,7 +39,7 @@ I enjoy building scalable backends, experimenting with GenAI workflows, and divi
 - 🗃️ [Database Storage Engine in C++](https://github.com/theweird-kid/pebbleDB) — Lightweight storage engine supporting indexed data access, efficient record storage, and custom memory management, built from scratch.
 
 ## 📈 GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theweird-kid&theme=github-compact&cache_bust=1762736643<CACHE_BUST>)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theweird-kid&theme=github-compact&cache_bust=1762822904<CACHE_BUST>)
 
 
 ## 📫 Get in Touch
