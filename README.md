@@ -1,47 +1,42 @@
-# Hi there 👋 I'm Gaurav Kumar
+# Hi, I'm Gaurav Kumar 👋
 
-I enjoy building scalable backends, experimenting with GenAI workflows, and diving deep into systems programming with C++.
+Backend engineer. In my spare time I explore how databases and systems work under the hood, mostly in **C++** and **Go**.
 
-- 🔧 Currently working with **Go**, **PostgreSQL**, **Docker**, and **GCP**
-- 📌 Projects include system software, GenAI-powered tools, and backend infrastructure
-- 💡 Exploring: distributed systems, system software, GenAI and LLM-powered applications
+- 🔬 **Interested in:** database internals, storage engines, concurrency, distributed systems
+- 🧰 **Tech:** C++, Go, Java, SQL, Spring Boot, gRPC, Snowflake, Cassandra, Solr, Azure SQL
+
+## 🔬 Side Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🗃️ [**KernSQL**](https://github.com/theweird-kid/kernSQL) | Relational database engine built from scratch: page storage, a concurrent buffer pool, B+tree indexes, and a Volcano-style executor with hash and sort-merge joins | C++23 |
+| ⚡ [**Redis-Compatible KV Store**](https://github.com/theweird-kid) | In-memory key-value store that speaks the Redis protocol, with AOF persistence and leader–follower replication | Go |
+| 🎙️ [**Echo-Link**](https://github.com/theweird-kid/echo-link) | Real-time peer-to-peer voice chat over UDP, with Opus audio and an asynchronous, multi-threaded pipeline | C++17, Asio |
 
 ## 🛠️ Tech Stack
 
-### 🧠 Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+**Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### ⚙️ Tools & Platforms
+**Backend & Data**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Solr](https://img.shields.io/badge/Solr-D9411E?style=for-the-badge&logo=apachesolr&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQLC](https://img.shields.io/badge/SQLC-006ACC?style=for-the-badge&logo=go&logoColor=white)
-![Goose](https://img.shields.io/badge/Goose-000000?style=for-the-badge&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Ninja](https://img.shields.io/badge/Ninja-999999?style=for-the-badge&logo=ninja&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-## 🔬 Featured Projects
-- 🧠 [Neural Notes](https://neural-notes-464706.web.app/) — AI-powered tool that generates commit-level summaries and timelines for any GitHub repository. Built with Go, React, and Vertex AI.
-- 🎙️ [UDP Voice Chat in C++](https://github.com/theweird-kid/echo-link) — Real-time peer-to-peer voice communication over UDP sockets.
-- 🗃️ [Database Storage Engine in C++](https://github.com/theweird-kid/pebbleDB) — Lightweight storage engine supporting indexed data access, efficient record storage, and custom memory management, built from scratch.
-
-## 📈 GitHub Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theweird-kid&theme=github-compact&cache_bust=1790738028<CACHE_BUST>)
-
+## 📈 Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theweird-kid&theme=github-compact)
 
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-gaurav29/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gaurav-a73e.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravk29work@gmail.com)
